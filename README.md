@@ -20,7 +20,7 @@
 
 ## Sobre Mim
 
-Opa, me chamo Daniel tenho 19 anos e atualmente cursando 4 período de Ciência da computação, me interesso pela área de Cibersegurança e sigo estudando para tal. Apaixonado por tecnologia desde sempre e focado em ajudar as pessoas com Cibersegurança.
+Opa, me chamo Daniel tenho 19 anos e atualmente cursando 4 período de Ciência da computação, me interesso pela área de Cibersegurança e sigo estudando para atuar como pentester. Apaixonado por tecnologia desde sempre e focado em ajudar as pessoas com Cibersegurança.
 
 ## Formas de contato 
 

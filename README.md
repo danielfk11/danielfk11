@@ -1,6 +1,6 @@
 ### Ola eu sou Daniel Kiffer! 😄
 
-<br>
+
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielfkiffer)
 [![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/lingonpng) 
@@ -10,7 +10,6 @@
 
 ## Teclonogias que utilizo 
 
-<br>
 
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +24,7 @@ Opa, me chamo Daniel tenho 19 anos e atualmente cursando 4 período de Ciência 
 
 ## Formas de contato 
 
-<br>
+
 
 ![EMAIL](https://img.shields.io/badge/danielfkiffer@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kiffer-320820234/)

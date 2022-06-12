@@ -8,6 +8,8 @@
 
 ![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfk11&theme=blueberry&show_icons=true)
 
+[![Danny GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&theme=blueberry)](https://github.com/danielfk11/github-readme-stats)
+
 
 
 ## Teclonogias que utilizo 

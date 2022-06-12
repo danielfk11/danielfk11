@@ -7,7 +7,7 @@
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/crfdanielkiffer)
 
 ![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfk11&theme=blueberry&show_icons=true)
-[![Danny GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/danielfk11/github-readme-stats)
+[![Danny GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact)](https://github.com/danielfk11/github-readme-stats)
 
 ## Teclonogias que utilizo 
 

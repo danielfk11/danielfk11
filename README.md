@@ -8,7 +8,7 @@
 
 ![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfk11&theme=blueberry&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&theme=blueberry)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -36,5 +36,5 @@ Opa, me chamo Daniel tenho 19 anos e atualmente cursando 4 período de Ciência 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kiffer-320820234/)
 
 
-![Snake animation](https://github.com/danielfk11/danielfk11/blob/output/github-contribution-grid-snake.svg&theme=blueberry)
+![Snake animation](https://github.com/danielfk11/danielfk11/blob/output/github-contribution-grid-snake.svg)
 

@@ -6,7 +6,7 @@
 [![TWITCH](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/lingonpng) 
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/crfdanielkiffer)
 
-![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfk11&theme=blueberry&show_icons=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 

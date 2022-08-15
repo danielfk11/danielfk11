@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![IMAGE](https://tryhackme-badges.s3.amazonaws.com/dannydev19.png)
 
 
 ## Teclonogias que utilizo 
@@ -22,7 +22,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-<script src="https://tryhackme.com/badge/1139231"></script>
 
 ## Sobre Mim
 

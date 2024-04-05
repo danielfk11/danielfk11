@@ -23,7 +23,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![RUBY](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=ruby&logoColor=white)
+![RUBY](https://img.shields.io/badge/Ruby-00ADD8?style=for-the-badge&logo=ruby&logoColor=red)
 ![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 

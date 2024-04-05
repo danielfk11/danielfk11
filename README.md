@@ -29,7 +29,8 @@
 
 ## Sobre Mim
 
-Opa, me chamo Daniel tenho 21 anos e atualmente cursando 7 período de Ciência da computação, me interesso pela área de Cibersegurança e sigo estudando para atuar como pentester. Apaixonado por tecnologia desde sempre e focado em ajudar as pessoas com Cibersegurança.
+Estudante de Ciência da Computação, especializado em desenvolvimento back-end.
+Possuo expertise em linguagens como Python, Ruby, JavaScript, TypeScript, além de experiência consolidada em design de bancos de dados como MySQL
 
 ## Formas de contato 
 

@@ -26,7 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-00bfbf?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-00bfbf?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-00bfbf?style=for-the-badge&logo=visualstudio&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00bfbf?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-00bfbf?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-00bfbf?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;

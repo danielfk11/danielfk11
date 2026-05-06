@@ -21,11 +21,6 @@
 
 ---
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielfk11&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=f5f5f5&text_color=bfbfbf&icon_color=f5f5f5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=f5f5f5&text_color=bfbfbf" />
-</div>
-
 ---
 
 ## About Me
@@ -75,22 +70,6 @@ Backend-focused .NET developer with experience building APIs, microservices, asy
   <img src="https://img.shields.io/badge/AWS-1b1b1b?style=flat-square&logo=amazonaws&logoColor=f5f5f5" />
   <img src="https://img.shields.io/badge/Terraform-1b1b1b?style=flat-square&logo=terraform&logoColor=f5f5f5" />
 </p>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/danielfkiffer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1b1b1b?style=flat-square&logo=linkedin&logoColor=f5f5f5" />
-  </a>
-  <a href="mailto:danielfkiffer@outlook.com">
-    <img src="https://img.shields.io/badge/Email-1b1b1b?style=flat-square&logo=gmail&logoColor=f5f5f5" />
-  </a>
-  <a href="https://www.instagram.com/danielfkiffer/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1b1b1b?style=flat-square&logo=instagram&logoColor=f5f5f5" />
-  </a>
-</div>
 
 ---
 

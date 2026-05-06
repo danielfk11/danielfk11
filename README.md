@@ -22,16 +22,16 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielfk11&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danielfk11&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=f5f5f5&text_color=bfbfbf&icon_color=f5f5f5&ring_color=f5f5f5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&hide_border=true&bg_color=00000000&title_color=f5f5f5&text_color=bfbfbf" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielfk11&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielfk11&theme=github_dark&utcOffset=-3" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielfk11&hide_border=true&background=00000000&stroke=3a3a3a&ring=f5f5f5&fire=f5f5f5&currStreakNum=f5f5f5&sideNums=bfbfbf&currStreakLabel=f5f5f5&sideLabels=bfbfbf&dates=8a8a8a" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielfk11&bg_color=000000&color=f5f5f5&line=bfbfbf&point=ffffff&area=true&hide_border=true&area_color=1f1f1f" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielfk11&bg_color=00000000&color=f5f5f5&line=9a9a9a&point=f5f5f5&area=true&hide_border=true&area_color=1a1a1a" />
 </div>
 
 ---

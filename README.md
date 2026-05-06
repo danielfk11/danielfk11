@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## About Me
 
 Backend-focused .NET developer with experience building APIs, microservices, asynchronous communication flows, and cloud-ready systems. I like software that is clear, reliable, and easy to evolve.

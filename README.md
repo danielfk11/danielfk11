@@ -1,109 +1,103 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,100:4a4a4a&section=header"/>
+
+<div align="center">
+
+# Daniel Facini Kiffer
+
+### Software Engineer | C# | .NET | Microservices
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-242424?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-2e2e2e?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+<p><i>Building backend systems with a clean, reliable, and pragmatic approach.</i></p>
+
+</div>
 
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielfk11&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+  <img width="49%" height="190" src="https://github-readme-stats.vercel.app/api?username=danielfk11&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=d9d9d9&icon_color=bfbfbf&ring_color=ffffff" />
+  <img width="41%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfk11&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=d9d9d9" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danielfk11&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielfk11&hide_border=true&background=000000&stroke=444444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=d9d9d9&currStreakLabel=ffffff&sideLabels=bfbfbf&dates=8c8c8c" />
+</div>
+
+---
+
+## About Me
+
+Backend-focused .NET developer with experience building APIs, microservices, asynchronous communication flows, and cloud-ready systems. I like software that is clear, reliable, and easy to evolve.
+
+- Strong focus on C#, .NET, ASP.NET Core, and distributed systems.
+- Experience with message brokers, containerized environments, and CI/CD pipelines.
+- Interested in architecture, observability, security, and performance.
+
+---
+
+## Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-242424?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity_Framework-2e2e2e?style=for-the-badge&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-242424?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2e2e2e?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Main Skills
-![C#](https://img.shields.io/badge/-C%23-00bfbf?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-00bfbf?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-00bfbf?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![Microservices](https://img.shields.io/badge/-Microservices-00bfbf?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-00bfbf?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-00bfbf?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-00bfbf?style=for-the-badge&logo=swagger&labelColor=0D1117)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-00bfbf?style=for-the-badge&logo=rabbitmq&labelColor=0D1117)&nbsp;
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-00bfbf?style=for-the-badge&logo=githubactions&labelColor=0D1117)&nbsp;
+## Data, Infra, and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-242424?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-2e2e2e?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-242424?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-2e2e2e?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
 ---
 
-### 🗄️ Databases & Message Brokers
-![MySQL](https://img.shields.io/badge/-MySQL-00bfbf?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00bfbf?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-00bfbf?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-00bfbf?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-00bfbf?style=for-the-badge&logo=rabbitmq&labelColor=0D1117)&nbsp;
+## Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-242424?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Development Environment
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-00bfbf?style=for-the-badge&logo=visual-studio&labelColor=0D1117)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-00bfbf?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
-![macOS](https://img.shields.io/badge/-macOS-00bfbf?style=for-the-badge&logo=apple&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-00bfbf?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00bfbf?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+## Connect
 
----
-
-### 🔧 DevOps & Version Control
-![Git](https://img.shields.io/badge/-Git-00bfbf?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-00bfbf?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-00bfbf?style=for-the-badge&logo=githubactions&labelColor=0D1117)&nbsp;
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-00bfbf?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-
----
-
-### 📊 Currently Learning
-![Azure](https://img.shields.io/badge/-Azure-00bfbf?style=for-the-badge&logo=microsoftazure&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-00bfbf?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-00bfbf?style=for-the-badge&logo=terraform&labelColor=0D1117)&nbsp;
-
----
-
-### 🌐 Connect with me
 <div align="center">
-  <a href="https://www.instagram.com/danielfkiffer/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/danielfkiffer/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:danielfkiffer@outlook.com">
+    <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/danielfkiffer/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-2e2e2e?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 💼 Professional Experience
-
-**.NET Developer** | Microservices & Cloud Solutions
-
-- **Backend Development**: C#, .NET Core, ASP.NET Web API, Entity Framework
-- **Microservices Architecture**: Domain-Driven Design, CQRS, Event Sourcing
-- **Message Queues**: RabbitMQ for reliable async communication
-- **Databases**: MySQL, PostgreSQL, MongoDB for different use cases
-- **Containerization**: Docker, Docker Compose, Kubernetes orchestration
-- **CI/CD**: GitHub Actions, automated testing and deployment
-- **Cloud**: Azure services, AWS fundamentals
-
----
-
-### 🏗️ Architecture & Patterns
-
-- **Microservices**: Service discovery, API Gateway, Circuit Breaker
-- **Event-Driven**: Message brokers, pub/sub patterns
-- **Database Design**: Relational (MySQL/PostgreSQL), NoSQL (MongoDB)
-- **Security**: JWT, OAuth2, API security best practices
-- **Performance**: Caching (Redis), optimization, monitoring
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfk11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielfk11&theme=dark"/>
-</div>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4a4a4a,100:050505&section=footer"/>
 
 

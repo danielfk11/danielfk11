@@ -7,12 +7,12 @@
 ### Software Engineer | C# | .NET | Microservices
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-242424?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-2e2e2e?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-1b1b1b?style=flat-square&logo=csharp&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/.NET-1b1b1b?style=flat-square&logo=dotnet&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/ASP.NET-1b1b1b?style=flat-square&logo=dotnet&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Microservices-1b1b1b?style=flat-square&logo=icloud&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Docker-1b1b1b?style=flat-square&logo=docker&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Kubernetes-1b1b1b?style=flat-square&logo=kubernetes&logoColor=f5f5f5" />
 </p>
 
 <p><i>Building backend systems with a clean, reliable, and pragmatic approach.</i></p>
@@ -45,14 +45,14 @@ Backend-focused .NET developer with experience building APIs, microservices, asy
 ## Core Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-242424?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-2e2e2e?style=for-the-badge&logo=nuget&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-111111?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-242424?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2e2e2e?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-1b1b1b?style=flat-square&logo=csharp&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/.NET-1b1b1b?style=flat-square&logo=dotnet&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-1b1b1b?style=flat-square&logo=dotnet&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Entity_Framework-1b1b1b?style=flat-square&logo=nuget&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/RabbitMQ-1b1b1b?style=flat-square&logo=rabbitmq&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Docker-1b1b1b?style=flat-square&logo=docker&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Kubernetes-1b1b1b?style=flat-square&logo=kubernetes&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1b1b1b?style=flat-square&logo=githubactions&logoColor=f5f5f5" />
 </p>
 
 ---
@@ -60,14 +60,14 @@ Backend-focused .NET developer with experience building APIs, microservices, asy
 ## Data, Infra, and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-242424?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-2e2e2e?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-242424?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-2e2e2e?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-1b1b1b?style=flat-square&logo=mysql&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1b1b1b?style=flat-square&logo=postgresql&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/MongoDB-1b1b1b?style=flat-square&logo=mongodb&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Redis-1b1b1b?style=flat-square&logo=redis&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Visual_Studio-1b1b1b?style=flat-square&logo=visualstudio&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/VS_Code-1b1b1b?style=flat-square&logo=visualstudiocode&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/macOS-1b1b1b?style=flat-square&logo=apple&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Linux-1b1b1b?style=flat-square&logo=linux&logoColor=f5f5f5" />
 </p>
 
 ---
@@ -75,9 +75,9 @@ Backend-focused .NET developer with experience building APIs, microservices, asy
 ## Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-242424?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-1b1b1b?style=flat-square&logo=microsoftazure&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/AWS-1b1b1b?style=flat-square&logo=amazonaws&logoColor=f5f5f5" />
+  <img src="https://img.shields.io/badge/Terraform-1b1b1b?style=flat-square&logo=terraform&logoColor=f5f5f5" />
 </p>
 
 ---
@@ -86,13 +86,13 @@ Backend-focused .NET developer with experience building APIs, microservices, asy
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danielfkiffer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1b1b1b?style=flat-square&logo=linkedin&logoColor=f5f5f5" />
   </a>
   <a href="mailto:danielfkiffer@outlook.com">
-    <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-1b1b1b?style=flat-square&logo=gmail&logoColor=f5f5f5" />
   </a>
   <a href="https://www.instagram.com/danielfkiffer/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-2e2e2e?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-1b1b1b?style=flat-square&logo=instagram&logoColor=f5f5f5" />
   </a>
 </div>
 
